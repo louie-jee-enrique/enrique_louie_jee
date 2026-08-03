@@ -6,4 +6,4 @@ desktop.ini
 .vscode/ 
 # Temporary files 
 *.tmp 
-*.log
+*.log 
